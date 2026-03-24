@@ -1,4 +1,4 @@
-#!/Users/NATGOMEZ/repos/shot-quality-auditor/venv/bin/python3.11
+#!/Users/NATGOMEZ/repos/shot-quality-auditor/venv/bin/python3.14
 
 
 import argparse
