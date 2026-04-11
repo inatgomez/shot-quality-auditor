@@ -1,1 +1,8 @@
+# Virtual environment
+venv/
+
+# Data files
 data/*.parquet
+
+# Experiment notebook
+p1_experiment.ipynb
